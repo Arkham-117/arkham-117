@@ -27,15 +27,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 <br/>
 
-<p align="center">
-<a href="https://github.com/arkham-117">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arkham-117&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/arkham-117">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkham-117&layout=compact&theme=great-gatsby" />
-</a>
-</p>
+[![Arkham-117's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkham-117)](https://github.com/arkham-117/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkham-117&layout=compact)](https://github.com/arkham-117/github-readme-stats)
 
 <hr/>
 
