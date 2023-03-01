@@ -27,7 +27,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 <br/>
 
-[![Arkham-117's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkham-117)](https://github.com/arkham-117/github-readme-stats)
+![Arkham-117's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkham-117&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkham-117&layout=compact)](https://github.com/arkham-117/github-readme-stats)
 
