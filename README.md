@@ -1,7 +1,7 @@
 ![Zephyr](https://i.imgur.com/atDYh50.png "Zephyr")
 
 ## About Me
-- **Full Stack Developer** 
+- **Cybersecurity | Web Development** 
 - Currently experimenting with **Microsoft Azure** and learning more about DevOps.
 - Have an interest in video editing and file optimization.
 
